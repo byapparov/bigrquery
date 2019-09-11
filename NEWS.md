@@ -1,6 +1,5 @@
 # bigrquery (development version)
 
-
 * `bq_perform_query()` can now execute parameterised query with parameters 
   of ARRAY type (@byapparov, #303).
 
